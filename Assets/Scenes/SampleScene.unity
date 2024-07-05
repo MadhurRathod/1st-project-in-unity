@@ -4887,7 +4887,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 112
+  m_Constraints: 48
   m_CollisionDetection: 0
 --- !u!136 &1643939111
 CapsuleCollider:
@@ -4993,7 +4993,7 @@ MonoBehaviour:
   CoinsCollectedHahaha: 0
   CoinSound: {fileID: 8300000, guid: 6a6e172cb49381447985e4313dae0cf3, type: 3}
   Oof: {fileID: 8300000, guid: 2df2ea042f7729f4eb8c42b3743cb81a, type: 3}
-  OofSoundOn: 0
+  OofSoundOn: 1
 --- !u!114 &1643939116
 MonoBehaviour:
   m_ObjectHideFlags: 0
